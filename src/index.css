@@ -23,3 +23,7 @@ body {
   flex-wrap: wrap;
   margin: 10px 10px;
 }
+
+.pokemon-button {
+  display: flex;
+}
